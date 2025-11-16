@@ -5,11 +5,10 @@
 <div align="center">
 
 <!-- Animated Dev Icons -->
+## Skills
 <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50">
 <br/><br/>
 
- <img src="https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="600" alt="trophy graph" />
- <br/><br/>
 
 
 <!-- Animated Terminal Header -->
@@ -55,10 +54,18 @@ I love crafting smooth **UI/UX**, clean layouts, and delightful **animations** t
 ---
 
 ##  Contact & Socials
+<div align="center">
+  <a href="https://discord.com/users/@twinzler" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <a href="mailto:Twinzler@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="mailto:Vivek.morigan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email2&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+</div>
 
-**Discord**  Vivek.morigan@gmail.com <br>
-**Email 1**  Vivek.morigan@gmail.com , <br>
-twinzler@proton.me 
 
 ---
 
@@ -69,6 +76,11 @@ twinzler@proton.me
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivekmorigan-lgtm&theme=algolia&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmorigan-lgtm&theme=algolia&hide_border=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
+
+ <img src="https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="600" alt="trophy graph" />
+ <br/><br/>
 
 ---
 
