@@ -6,10 +6,10 @@
 
 <!-- Animated Dev Icons -->
 <img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50">
-<br/>
+<br/><br/>
 
  <img src="https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="600" alt="trophy graph" />
- <br>
+ <br/><br/>
 
 
 <!-- Animated Terminal Header -->
