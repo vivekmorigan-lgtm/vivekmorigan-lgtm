@@ -1,58 +1,62 @@
-# 🌟 Vivek
+#  Vivek
 
-![Profile Views](https://komarev.com/ghpvc/?username=vivekmorigan-lgtm&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vivekmorigan-lgtm&label=Profile%20views&color=8e75b6&style=grow)
 
 <div align="center">
-  <pre>
- _    _ _           _        
-| |  | (_)         | |       
-| |  | |_ _ __   __| | ___   
-| |/\| | | '_ \ / _` |/ _ \  
-\  /\  / | | | | (_| | (_) | 
- \/  \/|_|_| |_|\__,_|\___/  
-  </pre>
 
-  <h2>
-    <code>console.log('Frontend Developer | UI/UX & Animation Lover 💛')</code>
-  </h2>
+<!-- Animated Dev Icons -->
+<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50">
+<br/>
+
+
+
+<!-- Animated Terminal Header -->
+<svg width="420" height="60">
+  <rect width="420" height="60" rx="10" fill="#000"></rect>
+  <text x="20" y="38" font-size="14" fill="yellowgreen" font-family="monospace">
+    &gt; Initializing Frontend Developer…
+  </text>
+  <rect width="8" height="20" fill="yellowgreen" x="280" y="20"></react>
+</svg>
+
+<h2>
+  <code>console.log('Frontend Developer | UI/UX & Animation Lover')</code>
+</h2>
+
 </div>
 
 ---
 
-## 🌐 About Me
+##  About Me
 
-Hi! I’m **Vivek**, a passionate **Frontend Developer** focused on building beautiful, responsive, and meaningful interfaces.  
+Hi! I’m **Vivek**, a passionate **Frontend Developer** and *UI/UX Designer* focused on building beautiful, responsive, and meaningful interfaces.  
 I love crafting smooth **UI/UX**, clean layouts, and delightful **animations** that make websites feel alive.
 
 ---
 
-## 🚀 Skills & Expertise
+##  Skills & Expertise
 
-### 🎨 Frontend Development
+###  Frontend Development
 - React.js  
 - HTML5 & CSS3  
 - JavaScript (ES6+)  
 - UI/UX Design  
-- Animations (GSAP, Framer Motion)
+- Animations with GSAP & Framer Motion  
 
-### 🔧 Tools & Interests
+###  Tools & Interests
 - Component Architecture  
 - Responsive Design  
 - Modern UI  
-- Web Animation  
+- Motion Design  
 - Design Systems  
 
 ---
 
-## 📫 Contact & Socials
+##  Contact & Socials
 
-| Platform | Link |
-|---------|------|
-| **Discord** | *(add later)* |
-| **Email 1** | Vivek.morigan@gmail.com |
-| **Email 2** | twinzler@proton.me |
-| **LinkedIn** | --- |
-| **Facebook** | --- |
+**Discord**  Vivek.morigan@gmail.com <br>
+**Email 1**  Vivek.morigan@gmail.com , <br>
+twinzler@proton.me 
 
 ---
 
@@ -66,14 +70,12 @@ I love crafting smooth **UI/UX**, clean layouts, and delightful **animations** t
 
 ---
 
-## 🌈 Let's Build Something Amazing
+#  Fun Zone
 
-If you want me to update this with:
-- Custom colors  
-- Better ASCII art  
-- A banner  
-- More widgets  
-- Animated SVGs  
-- A dark theme  
-
-Just tell me **“upgrade it”** ❤️
+```js
+if (life === "good") {
+  console.log("Code + Have fun!");
+} else {
+  console.log("Code until ...");
+}
+```
