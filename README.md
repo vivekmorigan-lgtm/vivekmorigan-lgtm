@@ -6,8 +6,8 @@
 
 <!-- Animated Dev Icons -->
 ## Skills
-<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50">
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50" />
+<br/>
 
 
 
@@ -24,7 +24,6 @@
   <code>console.log('Frontend Developer | UI/UX & Animation Lover')</code>
 </h2>
 </div>
----
 
 ##  About Me
 
