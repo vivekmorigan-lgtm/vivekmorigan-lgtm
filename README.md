@@ -23,7 +23,7 @@
 <h2>
   <code>console.log('Frontend Developer | UI/UX & Animation Lover')</code>
 </h2>
-
+</div>
 ---
 
 ##  About Me
