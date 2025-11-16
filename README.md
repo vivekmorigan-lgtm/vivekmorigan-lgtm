@@ -79,8 +79,6 @@ I love crafting smooth **UI/UX**, clean layouts, and delightful **animations** t
 
 ![](https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
 
- <img src="https://github-profile-trophy.vercel.app/?username=vivekmorigan-lgtm&theme=aura&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="600" alt="trophy graph" />
- <br/><br/>
 
 ---
 
