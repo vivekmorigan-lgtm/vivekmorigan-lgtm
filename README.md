@@ -6,19 +6,10 @@
 
 <!-- Animated Dev Icons -->
 ## Skills
-<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,vscode" height="50" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,figma,vscode)](https://skillicons.dev)
 <br/>
 
 
-
-<!-- Animated Terminal Header -->
-<svg width="420" height="60">
-  <rect width="420" height="60" rx="10" fill="#000"></rect>
-  <text x="20" y="38" font-size="14" fill="yellowgreen" font-family="monospace">
-    &gt; Initializing Frontend Developer…
-  </text>
-  <rect width="8" height="20" fill="yellowgreen" x="280" y="20"></react>
-</svg>
 
 <h2>
   <code>console.log('Frontend Developer | UI/UX & Animation Lover')</code>
